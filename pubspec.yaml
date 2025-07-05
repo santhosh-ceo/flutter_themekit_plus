@@ -1,7 +1,9 @@
 name: flutter_themekit_plus
-description: "A new Flutter plugin project."
+description: "A comprehensive Flutter theming system that provides a plug-and-play solution for creating consistent, dynamic, and accessible user interfaces. It supports light/dark/system modes, curated color palettes, auto theme switching, prebuilt themed widgets, context-aware theming, and modular theme extensions."
 version: 0.0.1
-homepage:
+homepage: https://github.com/santhosh-ceo/flutter_themekit_plus
+repository: https://github.com/santhosh-ceo/flutter_themekit_plus
+issue_tracker: https://github.com/santhosh-ceo/flutter_themekit_plus/issues
 
 environment:
   sdk: ^3.7.2
