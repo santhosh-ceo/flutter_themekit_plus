@@ -1,0 +1,25 @@
+name: flutter_themekit_plus_example
+description: "Demonstrates how to use the flutter_themekit_plus plugin."
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_themekit_plus:
+    path: ../
+
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
